@@ -78,6 +78,26 @@ def stations():
     stationlist=list(np.ravel(stationsquery))
 
     return jsonify(stationlist)
+
+    ########OR########
+
+    # session = Session(engine)
+
+    # stationsquery= session.query(Station.name, Station.station, Station.latitude, Station.longitude, Station.elevation).all()
+
+    # session.close()
+
+    # stationslist = []
+    # for name, station, latitude, longitude, elevation in stationsquery:
+    #     stations_dict = {}
+    #     stations_dict['name'] = name
+    #     stations_dict['station'] = station
+    #     stations_dict['latitude'] = latitude
+    #     stations_dict['longitude'] = longitude
+    #     stations_dict['elevation'] = elevation
+    #     stationslist.append(stations_dict)
+
+    #return jsonify(stationslist)
     
 
 ####Temp####
