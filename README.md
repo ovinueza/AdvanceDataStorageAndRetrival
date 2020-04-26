@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/describe.png">
+  <img width="300" height="460" src="https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/describe.png">
 </p>
 ![describe](https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/describe.png)
 
