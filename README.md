@@ -16,14 +16,17 @@
   <img width="460" height="300" src="https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/precipitation.png">
 </p>
 
-![describe](https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/describe.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/station-histogram.png">
+</p>
 
-![precipitation](https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/precipitation.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/temperature.png">
+</p>
 
-![StationHistogram](https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/station-histogram.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/daily-normals.png">
+</p>
 
-![temperature](https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/temperature.png)
-
-![dailynormals](https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/daily-normals.png)
 
 
