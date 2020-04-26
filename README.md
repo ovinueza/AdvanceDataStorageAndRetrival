@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/temperature.png">
+  <img width="300" height="460" src="https://github.com/ovinueza/AdvanceDataStorageAndRetrival/blob/master/Images/temperature.png">
 </p>
 
 <p align="center">
