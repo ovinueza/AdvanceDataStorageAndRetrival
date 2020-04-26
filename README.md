@@ -1,7 +1,7 @@
 # Advance Data Storage and Retrival
 
 ## Background
-Hawaii has several stations that track weather accross the different islands. The purpose of this project is to simply gather the data provided in SQLite and use Python to analyze the data and create a quick local app that can give 
+Hawaii has several stations that track weather accross the different islands. The purpose of this project is to simply gather the data provided in SQLite and use Python to analyze the data and create a quick local app that can give weather information that will help tourist decide what to do depending on weather patterns.
 
 ## Task
 
